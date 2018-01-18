@@ -4,7 +4,7 @@ using namespace std;
 void SayHi(string name)
 	{
 	cout << "Hello, from " << name << ".\n";
-	cout << "Also, Hello World!"
+	cout << "Also, Hello World!\n";
 	}
 
 int main()
